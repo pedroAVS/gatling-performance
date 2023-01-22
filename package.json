@@ -1,0 +1,7 @@
+{
+  "name": "gatling-performance",
+  "version": "1.0.0",
+  "dependencies": {
+    "newman": "^4.3.0"
+  }
+}
